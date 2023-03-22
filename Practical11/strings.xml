@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Practical11</string>
+    <string name="question">Select your hobbies</string>
+    <string name="hobby_01">Cricket</string>
+    <string name="hobby_02">Tennis</string>
+    <string name="hobby_03">Badminton</string>
+    <string name="button">Select</string>
+</resources>
