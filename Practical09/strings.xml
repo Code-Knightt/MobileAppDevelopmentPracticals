@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Practical09</string>
+    <string name="question">Select your branch</string>
+    <string name="branch_01">Computer</string>
+    <string name="branch_02">Electronics and Communication</string>
+    <string name="branch_03">Information Technology</string>
+    <string name="branch_04">Chemical</string>
+    <string name="branch_05">Electrical</string>
+</resources>
