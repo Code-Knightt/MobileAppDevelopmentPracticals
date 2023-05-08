@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"  xmlns:app="http://schemas.android.com/apk/res-auto"  >
+    <item  android:id="@+id/item1"
+        android:title="Red"
+        app:showAsAction="always"
+        android:icon="@drawable/red_circle"/>
+
+    <item  android:id="@+id/item2"
+        android:title="Green"
+        app:showAsAction="always"
+        android:icon="@drawable/green_circle"/>
+
+    <item  android:id="@+id/item3"
+        android:title="Blue"
+        app:showAsAction="always"
+        android:icon="@drawable/blue_circle"/>
+</menu>
